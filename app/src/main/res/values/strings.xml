@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Where Are You</string>
+    <string name="title_activity_lokasiku">Where Are You</string>
+
+    <string name="info_lokasi">Position</string>
+    <string name="pencarian_posisi">Position Determination? </string>
+    <string name="off">Off</string>
+    <string name="on">On</string>
+    <string name="alamat_posisi">Position Address:</string>
+
+    <string name="gps_aktif">GPS activated.</string>
+    <string name="gps_mati">GPS is disabled.</string>
+    <string name="searching_for_gps">Searching For GPS...</string>
+    <string name="akurasi">Accuration</string>
+    <string name="meter">Meter</string>
+
+    <string name="judul_gps">Need GPS Permission</string>
+    <string name="pesan_gps">This app needs GPS permission.</string>
+    <string name="grant">Grant</string>
+    <string name="cancel">Cancel</string>
+    <string name="grant_gps">Go to Permissions to Grant GPS</string>
+    <string name="gps_granted">GPS access granted</string>
+    <string name="gps_denied">GPS access denied</string>
+
+    <string name="judul_storage">Need Storage Permission</string>
+    <string name="pesan_storage">This app needs storage permission.</string>
+    <string name="grant_storage">Go to Permissions to Grant Storage</string>
+    <string name="storage_granted">Storage access granted</string>
+    <string name="storage_denied">Storage access denied</string>
+
+    <string name="akurat_dalam">Accurate in</string>
+    <string name="petunjuk_arah">Directions</string>
+    <string name="bagikan_ke">Share using</string>
+    <string name="tidak_tersedia">Unavailable</string>
+    <string name="ok">Ok</string>
+</resources>

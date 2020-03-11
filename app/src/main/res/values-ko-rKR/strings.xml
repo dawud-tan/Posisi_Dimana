@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">어디야</string>
+    <string name="title_activity_lokasiku">어디야?</string>
+
+    <string name="info_lokasi">위치</string>
+    <string name="pencarian_posisi">위치 결정? </string>
+    <string name="off">끄다</string>
+    <string name="on"> 켜다</string>
+    <string name="alamat_posisi">위치 주소:</string>
+
+    <string name="gps_aktif">GPS 활성화 됨.</string>
+    <string name="gps_mati">GPS가 사용 중지되었습니다..</string>
+    <string name="searching_for_gps">GPS 검색...</string>
+    <string name="akurasi">정교</string>
+    <string name="meter">미터</string>
+
+    <string name="judul_gps">GPS 권한이 필요합니다.</string>
+    <string name="pesan_gps">이 응용 프로그램은 GPS 권한이 필요합니다.</string>
+    <string name="grant">부여</string>
+    <string name="cancel">부정하다</string>
+    <string name="grant_gps">GPS 허용 권한으로 이동하십시오.</string>
+    <string name="gps_granted">부여 된 GPS 액세스</string>
+    <string name="gps_denied">GPS 액세스가 거부되었습니다</string>
+
+    <string name="judul_storage">저장소 권한 필요</string>
+    <string name="pesan_storage">이 앱은 저장 권한이 필요합니다.</string>
+    <string name="grant_storage">저장소 권한 부여로 이동하여 저장소 부여</string>
+    <string name="storage_granted">스토리지 액세스 권한 부여</string>
+    <string name="storage_denied">저장소 액세스가 거부되었습니다.</string>
+
+    <string name="akurat_dalam">정확한</string>
+    <string name="petunjuk_arah">지도</string>
+    <string name="bagikan_ke">다음을 사용하여 공유</string>
+    <string name="tidak_tersedia">없는</string>
+    <string name="ok">승인</string>
+</resources>

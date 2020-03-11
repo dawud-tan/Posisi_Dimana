@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Posisi Dimana</string>
+    <string name="title_activity_lokasiku">Posisi Dimana</string>
+
+    <string name="info_lokasi">Posisi</string>
+    <string name="pencarian_posisi">Pencarian Posisi? </string>
+    <string name="off">Mati</string>
+    <string name="on">Hidup</string>
+    <string name="alamat_posisi">Alamat Posisi:</string>
+
+    <string name="gps_aktif">GPS diaktifkan.</string>
+    <string name="gps_mati">GPS dimatikan.</string>
+    <string name="searching_for_gps">Pencarian Sinyal GPS...</string>
+    <string name="akurasi">Akurasi</string>
+    <string name="meter">Meter</string>
+
+    <string name="judul_gps">Perlu permisi GPS</string>
+    <string name="pesan_gps">Aplikasi memerlukan permisi GPS.</string>
+    <string name="grant">Ijinkan</string>
+    <string name="cancel">Tolak</string>
+    <string name="grant_gps">Buka permisi untuk ijinkan GPS</string>
+    <string name="gps_granted">akses GPS terbuka</string>
+    <string name="gps_denied">akses GPS tertolak</string>
+
+    <string name="judul_storage">Perlu permisi penyimpanan</string>
+    <string name="pesan_storage">Aplikasi memerlukan permisi penyimpanan.</string>
+    <string name="grant_storage">Buka permisi untuk ijinkan penyimpanan</string>
+    <string name="storage_granted">akses penyimpanan terbuka</string>
+    <string name="storage_denied">akses penyimpanan tertolak</string>
+
+    <string name="akurat_dalam">Akurat dalam</string>
+    <string name="petunjuk_arah">Petunjuk arah</string>
+    <string name="bagikan_ke">Bagikan ke</string>
+    <string name="tidak_tersedia">Tidak tersedia</string>
+    <string name="ok">Ok</string>
+</resources>

@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">你在哪</string>
+    <string name="title_activity_lokasiku">你在哪</string>
+
+    <string name="info_lokasi">位置</string>
+    <string name="pencarian_posisi">位置确定？ </string>
+    <string name="off">关掉</string>
+    <string name="on">打开</string>
+    <string name="alamat_posisi">位置地址:</string>
+
+    <string name="gps_aktif">GPS激活.</string>
+    <string name="gps_mati">GPS被禁用.</string>
+    <string name="searching_for_gps">搜索GPS...</string>
+    <string name="akurasi">精度的作用</string>
+    <string name="meter">仪表</string>
+
+    <string name="judul_gps">需要GPS许可</string>
+    <string name="pesan_gps">此应用需要GPS许可.</string>
+    <string name="grant">格兰特</string>
+    <string name="cancel">拒绝</string>
+    <string name="grant_gps">转到授权GPS授权</string>
+    <string name="gps_granted">获得GPS访问权限</string>
+    <string name="gps_denied">GPS访问被拒绝</string>
+
+    <string name="judul_storage">需要存储许可</string>
+    <string name="pesan_storage">此应用需要存储权限</string>
+    <string name="grant_storage">转到授予存储权限</string>
+    <string name="storage_granted">存储访问权限</string>
+    <string name="storage_denied">存储访问被拒绝</string>
+
+    <string name="akurat_dalam">准确的</string>
+    <string name="petunjuk_arah">路线</string>
+    <string name="bagikan_ke">分享使用</string>
+    <string name="tidak_tersedia">不可用</string>
+    <string name="ok">好</string>
+</resources>

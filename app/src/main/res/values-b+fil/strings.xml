@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Nasaan ka</string>
+    <string name="title_activity_lokasiku">Nasaan ka</string>
+    
+    <string name="info_lokasi">Posisyon</string>
+    <string name="pencarian_posisi">Position Pagtukoy? </string>
+    <string name="off">mula</string>
+    <string name="on">sa</string>
+    <string name="alamat_posisi">Position Address:</string>
+    
+    <string name="gps_aktif">GPS activate.</string>
+    <string name="gps_mati">GPS ay hindi pinagana.</string>
+    <string name="searching_for_gps">Masusi para sa GPS...</string>
+    <string name="akurasi">Accuration</string>
+    <string name="meter">Metro</string>
+
+    <string name="judul_gps">Kailangan GPS Pahintulot</string>
+    <string name="pesan_gps">Kailangan ng app na ito GPS pahintulot.</string>
+    <string name="grant">Grant</string>
+    <string name="cancel">Tanggihan</string>
+    <string name="grant_gps">Pumunta sa Pahintulot Grant GPS</string>
+    <string name="gps_granted">GPS access na ibinigay</string>
+    <string name="gps_denied">GPS access denied</string>
+
+    <string name="judul_storage">Kailangan Imbakan ng Pahintulot</string>
+    <string name="pesan_storage">Kailangan ng app na ito sa imbakan ng pahintulot.</string>
+    <string name="grant_storage">Pumunta sa Pahintulot Grant Storage</string>
+    <string name="storage_granted">Imbakan ng access na ibinigay</string>
+    <string name="storage_denied">Imbakan ng access denied</string>
+
+    <string name="akurat_dalam">Tumpak in</string>
+    <string name="petunjuk_arah">Mga ireksyon</string>
+    <string name="bagikan_ke">Ibahagi ang gamit</string>
+    <string name="tidak_tersedia">Hindi available ang</string>
+</resources>
